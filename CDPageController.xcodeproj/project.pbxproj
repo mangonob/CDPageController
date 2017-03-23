@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					4A29861D1E83768A001D4DAC = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4GM649GA4F;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4GM649GA4F;
 				INFOPLIST_FILE = CDPageController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mangonob.CDPageController;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4GM649GA4F;
 				INFOPLIST_FILE = CDPageController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mangonob.CDPageController;
